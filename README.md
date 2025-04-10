@@ -1,4 +1,4 @@
-Selvah: E-commerce App
+Selvah: E-commerce Mobile App
 
 This repository hosts a fully functional e-commerce application, designed to provide a seamless shopping experience for users. The app is built using React Native for the front-end, ensuring a dynamic, responsive, and cross-platform mobile user interface. On the back-end, the application utilizes Node.js, Express, Knex, and MySQL, creating a robust and scalable infrastructure to handle all e-commerce operations.
 
