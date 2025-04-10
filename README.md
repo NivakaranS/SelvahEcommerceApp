@@ -6,7 +6,6 @@ Features:
 1. Product catalog with categories and search functionality.
 2. Shopping cart and order management.
 3. Secure payment integration.
-4. Admin panel for product and inventory management.
 
 Tech Stack:
 * Front-end: React Native.
